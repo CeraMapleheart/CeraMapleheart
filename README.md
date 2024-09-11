@@ -1,4 +1,4 @@
-# Hi there, I'm Roshni V! 👋
+# Hi there, I'm Roshni! 👋
 
 I am a cyber security major passionate about networks and tool building. Welcome to my GitHub profile!
 
@@ -30,6 +30,11 @@ I am a cyber security major passionate about networks and tool building. Welcome
 - Anything Cyber
 - Computer fundamentals
 - Hackathon Ideas
+- Linux
+- Object Oriented Programming
+- Blockchain
+- Cyber Law
+- Digital Forensics
 
 ### 📫 How to reach me:
 - [Discord](https://discord.com/channels/@me/828635645265444895)
@@ -42,5 +47,50 @@ I am a cyber security major passionate about networks and tool building. Welcome
 </div>
 
 </div>
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Haskell-5E5086?style=flat&logo=haskell&logoColor=white" alt="Haskell" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+
+### Libraries/Frameworks
+<p>
+  <img src="https://img.shields.io/badge/SciKit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="SciKit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="Numpy" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira" />
+</p>
+
+
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ceramapleheart&show_icons=true&theme=radical)
+
+## 📈 Contribution Graph
+
+![Your Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ceramapleheart&theme=react-dark)
+
+---
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
