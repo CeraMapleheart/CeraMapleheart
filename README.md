@@ -52,7 +52,7 @@ I am a cyber security major passionate about networks and tool building. Welcome
 
 ## 🛠️ Skills
 
-### Programming Languages
+### Programming Languages/Libraries/Frameworks
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
@@ -67,10 +67,6 @@ I am a cyber security major passionate about networks and tool building. Welcome
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash" />
-</p>
-
-### Libraries/Frameworks
-<p>
   <img src="https://img.shields.io/badge/SciKit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="SciKit-Learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="Numpy" />
@@ -86,10 +82,6 @@ I am a cyber security major passionate about networks and tool building. Welcome
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ceramapleheart&show_icons=true&theme=radical)
-
-## 📈 Contribution Graph
-
-![Your Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ceramapleheart&theme=react-dark)
 
 ---
 
