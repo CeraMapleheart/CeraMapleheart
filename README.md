@@ -6,7 +6,7 @@ I am a cyber security major passionate about networks and tool building. Welcome
 - [Ransomware Proof Backup Tool](link-to-your-project)
 - [Multimodal Biometric-based DL](link-to-your-project)
 
-###🌱 I’m currently learning:
+### 🌱 I’m currently learning:
 - DL and Neural Networks
 - Building Applications in windows and Android
 - DSA based coding
@@ -29,6 +29,6 @@ I am a cyber security major passionate about networks and tool building. Welcome
 - [Personal Website - TBA](https://yourwebsite.com)
 
 ### ⚡ Fun fact:
-- I always complaint about not having time to do things, but end re-reading good books
+- I always complaint about not having time to do things, but end up re-reading good books
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
